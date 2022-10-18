@@ -23,3 +23,8 @@ Replace Parrent ID with the ID in the Created Drive Folder.
 UPADTE-SHEET.JS REQUIREMENTS: 
 
 Replace the spreadsheetId With the ID of the new SpreadSheet.
+
+NODE JS:
+
+npm install
+node filename.js
