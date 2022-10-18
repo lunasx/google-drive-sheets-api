@@ -13,7 +13,7 @@ step 4 - Rename the Downloaded file to credentials.json and Put it in the Folder
 
 AUTHORIZE GOOGLE DRIVE:
 
-step 1 - Create Folder <br />
+step 1 - Create a Folder in Google Drive  <br />
 step 2 - Share Folder to Service Account Mail (Share with people and groups.)
 
 DRIVE.JS REQUIREMENTS: 
