@@ -18,7 +18,7 @@ step 2 - Share Folder to Service Account Mail (Share with people and groups.)
 
 DRIVE.JS REQUIREMENTS: 
 
-Replace Parrent ID with the ID in the Drive Folder Created.
+Replace Parrent ID with the ID in the Created Drive Folder.
 
 UPADTE-SHEET.JS REQUIREMENTS: 
 
