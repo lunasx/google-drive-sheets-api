@@ -26,5 +26,5 @@ Replace the spreadsheetId With the ID of the new SpreadSheet.
 
 NODE JS:
 
-npm install
+npm install  <br />
 node filename.js
