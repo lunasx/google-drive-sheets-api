@@ -6,7 +6,7 @@ const http = require('https');
 app.get("/", async (req, res) => {
     const KEY_FILE = 'credentials.json';
     const SCOPES = 'https://www.googleapis.com/auth/drive';
-    const FILE_NAME = 'test picture';
+    const FILE_NAME = 'file name';
     const PARENT_ID = '< DRIVE FOLDER ID >';
     const fileUrl = '< UPLOAD URL >';
 
