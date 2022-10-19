@@ -1,6 +1,6 @@
 HOW TO CREATE GOOGLE API:
 
-step 1 - Login google console. (https://console.cloud.google.com) <br />
+step 1 - Login to google console. (https://console.cloud.google.com) <br />
 step 2 - Create a new project. <br />
 step 3 - Install Google Drive API & Google Sheets API.
 
