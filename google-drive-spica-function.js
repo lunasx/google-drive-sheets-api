@@ -1,3 +1,4 @@
+// Dependencies: googleapis@^108.0.0 - https@^1.0.0
 import http from 'https';
 import { google } from 'googleapis';
 
